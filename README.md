@@ -22,7 +22,8 @@ Target Variable:
 
 ⚙️ Techniques Used  
 
-```🔹 Data Preprocessing  
+🔹 Data Preprocessing  
+```
 Handling missing values using median imputation  
 Robust scaling to handle outliers  
 Stratified train–test split  
