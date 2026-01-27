@@ -28,14 +28,16 @@ Handling missing values using median imputation
 Robust scaling to handle outliers  
 Stratified train–test split  
 ```
-```🔹 Advanced Feature Engineering  
+🔹 Advanced Feature Engineering  
+```
 Medical risk ratios (cholesterol/age, heart rate/age)  
 Cardiovascular stress indicators  
 Feature interaction terms  
 Composite clinical risk score  
 Tree-based feature selection  
 ```
-```🔹 Machine Learning Models  
+🔹 Machine Learning Models  
+```
 Logistic Regression  
 Decision Tree  
 Random Forest  
@@ -46,7 +48,8 @@ Bagging
 K-Nearest Neighbors (KNN)  
 Naive Bayes  
 ```
-```🔹 Evaluation Metrics  
+🔹 Evaluation Metrics  
+```
 Accuracy  
 Precision  
 Recall  
