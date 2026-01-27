@@ -28,7 +28,7 @@ Handling missing values using median imputation
 Robust scaling to handle outliers  
 Stratified train–test split  
 ```
-🔹 Advanced Feature Engineering  
+🔹 Feature Engineering  
 ```
 Medical risk ratios (cholesterol/age, heart rate/age)  
 Cardiovascular stress indicators  
@@ -61,7 +61,8 @@ ROC–AUC Curve
 
 
 🏆 Results Summary  
-```Best Performing Models:  
+```
+Best Performing Models:  
 Gradient Boosting  
 Extra Trees  
 Random Forest  
